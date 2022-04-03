@@ -1,0 +1,49 @@
+body {
+    background: black;
+    color: white;
+}
+
+h1.navBar {
+    color: red;
+}
+
+ul.navBar {
+    padding: 5px;
+}
+
+h2 {
+    margin: 5px 10px;
+}
+
+table {
+    color: black;
+    padding: 5px;
+    margin: 5px 10px;
+}
+tr:nth-child(even) {
+    background: #CCC;
+}
+
+tr:nth-child(odd) {
+    background: #FFF;
+}
+
+li {
+    color: gray;
+}
+
+.head {
+    color: blue;
+    border: 2px solid blue;
+    alignment: center;
+    width: 300px;
+}
+
+form {
+    color: light gray;
+    text-emphasis: bold;
+}
+
+p{
+    width: 33%
+}
